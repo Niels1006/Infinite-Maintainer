@@ -13,7 +13,6 @@ function dump(o, depth)
     else
         return tostring(o)
     end
-
 end
 
 function parser(string)
